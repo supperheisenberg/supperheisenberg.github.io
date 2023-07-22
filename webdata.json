@@ -1,5 +1,5 @@
 {
-  "datas": [
+	"datas": [
 		{
 			"type": "常用推荐",
 			"title": "百度",
@@ -31,8 +31,15 @@
 		{
 			"type": "常用推荐",
 			"title": "AList",
-			"content": "网盘挂载",
+			"content": "本地网盘",
 			"url": "http://192.168.65.125:5244/",
+			"imgurl": "AList.png"
+		},
+		{
+			"type": "常用推荐",
+			"title": "AList",
+			"content": "斐讯N1",
+			"url": "http://192.168.65.126:5244/",
 			"imgurl": "AList.png"
 		},
 		{
@@ -2015,6 +2022,132 @@
 			"content": "QQ账号永久冻结解封之路——成功！！！拨开云雾！！！",
 			"url": "https://zhuanlan.zhihu.com/p/103928828",
 			"imgurl": "zhihu.png"
+		},
+		{
+			"type": "常用工具",
+			"title": "价格查询",
+			"content": "历史价格查询",
+			"url": "http://www.lsjgcx.com/",
+			"imgurl": "www.lsjgcx.com.png"
+		},
+		{
+			"type": "常用推荐",
+			"title": "OpenWrt",
+			"content": "斐讯N1",
+			"url": "https://192.168.65.126/cgi-bin/luci/",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "常用推荐",
+			"title": "Alist",
+			"content": "小雅",
+			"url": "http://192.168.65.126:6789/",
+			"imgurl": "Alist.png"
+		},
+		{
+			"type": "杂",
+			"title": "非线性列车",
+			"content": "羊毛推荐",
+			"url": "https://juij.pro/#%E7%AB%99%E5%8F%B0%E5%AF%BC%E8%88%AA:%E7%AB%99%E5%8F%B0%E5%AF%BC%E8%88%AA",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "IPTV-owenTV",
+			"url": "https://github.com/owen2000wy/owentv",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "学习资料",
+			"title": "计算机学习",
+			"content": "计算机专业学习路线",
+			"url": "https://hackway.org/docs/cs/intro",
+			"imgurl": "hackway.org.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "一个国内可直连的直播源分享项目",
+			"url": "https://github.com/fanmingming/live",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "影视",
+			"title": "聚BT",
+			"content": "影视资源聚合",
+			"url": "https://jubt.fun/cn/soft.html",
+			"imgurl": "jubt.fun.png"
+		},
+		{
+			"type": "常用推荐",
+			"title": "过早客",
+			"content": "武汉论坛",
+			"url": "https://www.guozaoke.com/",
+			"imgurl": "www.guozaoke.com.png"
+		},
+		{
+			"type": "常用工具",
+			"title": "TT快下",
+			"content": "百度云资源下载",
+			"url": "https://web.tttt.ee/?Type=LinkParse",
+			"imgurl": "web.tttt.ee.png"
+		},
+		{
+			"type": "免费机场",
+			"title": "Bikini Bottom",
+			"content": "免费机场",
+			"url": "https://user.biqibao.site/#/dashboard",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "影视",
+			"title": "WPFX",
+			"content": "网盘分享",
+			"url": "https://wpfx.org/",
+			"imgurl": "wpfx.org.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "ZyPlayer",
+			"url": "https://github.com/Hiram-Wong/ZyPlayer",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "Qexo在线Hexo编辑器",
+			"url": "https://github.com/Qexo/Qexo",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "iStoreOS 开源NAS",
+			"url": "https://github.com/istoreos/istoreos",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "免费机场",
+			"title": "EMO",
+			"content": "免费机场",
+			"url": "https://yyds.emovpn.top/#/dashboard",
+			"imgurl": "yyds.emovpn.top.png"
+		},
+		{
+			"type": "杂",
+			"title": "IT天空",
+			"content": "IT论坛",
+			"url": "https://www.itsk.com/",
+			"imgurl": "www.itsk.com.png"
+		},
+		{
+			"type": "影视",
+			"title": "电视直播",
+			"content": "电视直播资源",
+			"url": "https://iptvindex.com/",
+			"imgurl": "iptvindex.com.png"
 		}
-			]
+	]
 }
