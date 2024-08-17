@@ -2435,6 +2435,97 @@
 			"content": "影视下载",
 			"url": "https://www.bugutv.org/",
 			"imgurl": "www.bugutv.org.png"
+		},
+		{
+			"type": "Github",
+			"title": "GitHub项目",
+			"content": "音乐磁场签到脚本",
+			"url": "https://github.com/fengwenhua/hifini_sign_in",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "Github",
+			"title": "GitHub项目",
+			"content": "Android资料整合",
+			"url": "https://github.com/Omooo/Android-Notes",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "Github",
+			"title": "GitHub项目",
+			"content": "本地AI生成部署",
+			"url": "https://github.com/nashsu/FreeAskInternet",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "杂",
+			"title": "电视盒子直播源",
+			"content": "直播资源",
+			"url": "https://cyuan.netlify.app/",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "杂",
+			"title": "JIKE社区",
+			"content": "白嫖资源社区",
+			"url": "https://jike.info/",
+			"imgurl": "jike.info.png"
+		},
+		{
+			"type": "Github墙",
+			"title": "Github-翻墙项目",
+			"content": "Cry1ngMan",
+			"url": "https://github.com/Cry1ngMan/1",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "ChatTTS",
+			"url": "https://github.com/2noise/ChatTTS",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "免费机场",
+			"title": "TOTYUN",
+			"content": "免费机场",
+			"url": "https://www.totyun.org/#/dashboard",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "免费机场",
+			"title": "云鸟Loon",
+			"content": "免费机场",
+			"url": "https://9d25cc93.v2b-4n5.pages.dev/#/stage/buysubs",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "DailyCheckIn签到脚本",
+			"url": "https://github.com/Sitoi/dailycheckin?tab=readme-ov-file",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "杂",
+			"title": "小米BL解锁测试",
+			"content": "小米BL解锁测试",
+			"url": "https://xmbl.neko.ink/",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "免费机场",
+			"title": "真实惠",
+			"content": "免费机场",
+			"url": "https://zhenshihui.shop/#/login",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "杂",
+			"title": "有用经验",
+			"content": "互联网有用经验",
+			"url": "https://yyjingyan.com/",
+			"imgurl": "yyjingyan.com.png"
 		}
 	]
 }
