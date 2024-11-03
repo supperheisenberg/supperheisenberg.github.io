@@ -2701,6 +2701,62 @@
 			"content": "互联网有用经验",
 			"url": "https://yyjingyan.com/",
 			"imgurl": "yyjingyan.com.png"
+		},
+		{
+			"type": "常用工具",
+			"title": "ABB套件激活",
+			"content": "群辉套件激活",
+			"url": "http://abb.mi-d.cn/",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "B站空降助手",
+			"url": "https://github.com/hanydd/BilibiliSponsorBlock",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "SPlayer",
+			"url": "https://github.com/imsyy/SPlayer",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "杂",
+			"title": "Self",
+			"content": "自托管程序",
+			"url": "https://selfh.st/apps/",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "免费机场",
+			"title": "CAC APex",
+			"content": "免费机场",
+			"url": "https://www.cacapex.com/#/dashboard",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "NAS和内网",
+			"title": "NAS",
+			"content": "网易云音乐解锁",
+			"url": "https://192.168.65.94:6003/",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "模拟抖音",
+			"url": "https://github.com/zyronon/douyin",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "基于 bilibili 的音乐播放器",
+			"url": "https://github.com/cloudflypeng/eno-music?tab=readme-ov-file",
+			"imgurl": "github.png"
 		}
 	]
 }
