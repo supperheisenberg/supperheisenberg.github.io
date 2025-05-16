@@ -2339,11 +2339,11 @@
 			"imgurl": "default.png"
 		},
 		{
-			"type": "常用推荐",
+			"type": "NAS和内网",
 			"title": "NAS",
 			"content": "云盘资源搜索",
 			"url": "http://192.168.65.97:8904/",
-			"imgurl": "undefined.png"
+			"imgurl": "default.png"
 		},
 		{
 			"type": "NAS和内网",
@@ -2848,6 +2848,202 @@
 			"content": "动漫资源",
 			"url": "https://garden.breadio.wiki/",
 			"imgurl": "default.png"
+		},
+		{
+			"type": "NAS和内网",
+			"title": "CloudSaver",
+			"content": "网盘资源搜索",
+			"url": "http://192.168.65.97:8905/resource",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "杂",
+			"title": "Hassbian",
+			"content": "HAOS论坛",
+			"url": "https://bbs.hassbian.com/",
+			"imgurl": "bbs.hassbian.com.png"
+		},
+		{
+			"type": "动漫",
+			"title": "动漫花园",
+			"content": "动漫资源",
+			"url": "http://share.dmhy.org/",
+			"imgurl": "share.dmhy.org.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "PDF翻译",
+			"url": "https://github.com/Byaidu/PDFMathTranslate/tree/main",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "在线TV.APK",
+			"url": "https://github.com/HTWMedia/HTV",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "Ping工具",
+			"url": "https://github.com/hanshuaikang/Nping",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "杂",
+			"title": "SMXDIY",
+			"content": "电脑DIY",
+			"url": "http://www.smxdiy.com/",
+			"imgurl": "www.smxdiy.com.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "一个基于 vue 和 gin 实现的在线观影网站",
+			"url": "https://github.com/ProudMuBai/GoFilm",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "常用工具",
+			"title": "Ghiblio",
+			"content": "吉卜力风格生成",
+			"url": "https://ghiblio.art/zh",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "LibreTV - 免费在线视频搜索与观看平台",
+			"url": "https://github.com/bestZwei/LibreTV",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "VideoAdGuard - B站视频植入广告检测器",
+			"url": "https://github.com/Warma10032/VideoAdGuard?tab=readme-ov-file",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "常用工具",
+			"title": "Github项目",
+			"content": "NavSide 收藏夹模板",
+			"url": "https://github.com/idevsig/navside",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "影视",
+			"title": "努努剧",
+			"content": "影视资源",
+			"url": "https://nunuju.com/",
+			"imgurl": "nunuju.com.png"
+		},
+		{
+			"type": "常用工具",
+			"title": "Subtitle",
+			"content": "字幕工具导航",
+			"url": "https://subtools.site/",
+			"imgurl": "subtools.site.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "Vue个人主页",
+			"url": "https://github.com/INFO-studio/info-c.cn",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "动漫",
+			"title": "咕咕番",
+			"content": "动漫资源",
+			"url": "https://www.gugu3.com/",
+			"imgurl": "www.gugu3.com.png"
+		},
+		{
+			"type": "影视",
+			"title": "子子影视",
+			"content": "影视资源",
+			"url": "https://www.ziziys.com/",
+			"imgurl": "www.ziziys.com.png"
+		},
+		{
+			"type": "影视",
+			"title": "修罗影视",
+			"content": "影视资源",
+			"url": "https://v.xlys.ltd.ua/",
+			"imgurl": "v.xlys.ltd.ua.png"
+		},
+		{
+			"type": "影视",
+			"title": "7点电影",
+			"content": "影视资源",
+			"url": "https://www.7.movie/",
+			"imgurl": "www.7.movie.png"
+		},
+		{
+			"type": "影视",
+			"title": "蛋蛋赞影院",
+			"content": "影视资源",
+			"url": "https://www.dandanzan.club/",
+			"imgurl": "www.dandanzan.club.png"
+		},
+		{
+			"type": "动漫",
+			"title": "酱紫社动漫",
+			"content": "动漫资源",
+			"url": "https://www.jzsdm.com/",
+			"imgurl": "www.jzsdm.com.png"
+		},
+		{
+			"type": "动漫",
+			"title": "酱紫社动漫",
+			"content": "动漫资源",
+			"url": "https://www.jzsdm.com/",
+			"imgurl": "default.png"
+		},
+		{
+			"type": "影视",
+			"title": "CN影院",
+			"content": "影视资源",
+			"url": "https://cnys.tv/",
+			"imgurl": "cnys.tv.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "MoePush 消息推送",
+			"url": "https://github.com/beilunyang/moepush",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "常用工具",
+			"title": "书架",
+			"content": "搜索书籍",
+			"url": "https://book.tstrs.me/search",
+			"imgurl": "book.tstrs.me.png"
+		},
+		{
+			"type": "影视",
+			"title": "老地方影院",
+			"content": "影视资源",
+			"url": "https://www.laodifang.tv/",
+			"imgurl": "www.laodifang.tv.png"
+		},
+		{
+			"type": "Github",
+			"title": "Github项目",
+			"content": "跨平台桌宠",
+			"url": "https://github.com/ayangweb/BongoCat",
+			"imgurl": "github.png"
+		},
+		{
+			"type": "常用工具",
+			"title": "自托管精选",
+			"content": "自托管精选",
+			"url": "https://zituoguan.com/",
+			"imgurl": "zituoguan.com.png"
 		}
 	]
 }
