@@ -2945,7 +2945,7 @@
 			"title": "Subtitle",
 			"content": "字幕工具导航",
 			"url": "https://subtools.site/",
-			"imgurl": "subtools.site.png"
+			"imgurl": "default.png"
 		},
 		{
 			"type": "Github",
